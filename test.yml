@@ -2,4 +2,6 @@
 apiversion: v1
 metadata: pod
 spec:
-  test: name
+  test: hname
+  age: "3"
+  height: "20"
