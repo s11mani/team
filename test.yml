@@ -1,2 +1,5 @@
-hhdh
-jsjsj
+---
+apiversion: v1
+metadata: pod
+spec:
+  test: name
