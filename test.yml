@@ -1,7 +1,0 @@
----
-apiversion: v1
-metadata: pod
-spec:
-  test: hname
-  age: "3"
-  height: "20"
